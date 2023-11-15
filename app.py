@@ -28,3 +28,4 @@ class RegistrationApp(App):
         return layout
     if __name__ == '__main__':
         RegistrationApp().run()
+        
